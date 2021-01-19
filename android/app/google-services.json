@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536378449098",
+    "project_id": "photo-vault-36d94",
+    "storage_bucket": "photo-vault-36d94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536378449098:android:24d4af56a066f4027aa833",
+        "android_client_info": {
+          "package_name": "com.cruz.photo_vault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536378449098-6v9pp53kh796jtslk934h6v12d9ju09p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpeE2dyqo88LEX5fMs7T-go_6JxTVUdts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536378449098-6v9pp53kh796jtslk934h6v12d9ju09p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
