@@ -1,6 +1,6 @@
-# photo_vault
+# private_photo_album
 
-A new Flutter application.
+A new Flutter project.
 
 ## Getting Started
 
